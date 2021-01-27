@@ -1,4 +1,9 @@
 ### Hi there 👋
+wangyiqin，大一新生。  
+
+目前掌握的技能：   
+
+薄弱的编程能力
 
 <!--
 **Bliever-wq/Bliever-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
